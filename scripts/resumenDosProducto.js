@@ -12,11 +12,11 @@ document.addEventListener('DOMContentLoaded', function () {
     }
 
     // Carga el archivo JSON
-    fetch('https://raw.githubusercontent.com/adr01an/CatalogoFarahDent/refs/heads/main/json/buscado.json')
+    fetch('https://raw.githubusercontent.com/adr01an/CatalogoFarahDent/refs/heads/main/json/productos.json')
         .then(response => response.json())
         .then(data => {
             // Busca el producto con el id correspondiente
-            console.log(data,"xd2");
+            // console.log(data,"xd2");
             const producto = data.producto.find(item => item.id == productId);
 
             if (producto) {
