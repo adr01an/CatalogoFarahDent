@@ -164,7 +164,7 @@
             "pesogrl": "",
             "categoria": "babero",
             "descripcion": "",
-            "imagen": "img/imgTodo/baberoBeige.jpg"
+            "imagen": "img/imgTodo/baberoBeige.jpg",
             "color": "bg-red-200",
             "precio": 133.92,
             "size": " JUMBO"
@@ -320,7 +320,7 @@
             "pesogrl": "",
             "categoria": "taza",
             "descripcion": "",
-            "imagen": "/PaginaAdris/img/imgTodo/tazaHuleChicaRoja.jpg",
+            "imagen": "img/imgTodo/tazaHuleChicaRoja.jpg",
             "color": "bg-red-500",
             "precio": 145.4,
             "size": "CHICA"
@@ -333,7 +333,7 @@
             "pesogrl": "",
             "categoria": "taza",
             "descripcion": "",
-            "imagen": "/PaginaAdris/img/imgTodo/tazaHuleGrandeAzul.jpg",
+            "imagen": "img/imgTodo/tazaHuleGrandeAzul.jpg",
             "color": "bg-sky-500",
             "precio": 280.8,
             "size": "GRANDE"
@@ -346,7 +346,7 @@
             "pesogrl": "",
             "categoria": "taza",
             "descripcion": "",
-            "imagen": "/PaginaAdris/img/imgTodo/tazaHuleGrandeVerde.jpg",
+            "imagen": "img/imgTodo/tazaHuleGrandeVerde.jpg",
             "color": "bg-green-500",
             "precio": 280.8,
             "size": "GRANDE"
@@ -359,7 +359,7 @@
             "pesogrl": "",
             "categoria": "taza",
             "descripcion": "",
-            "imagen": "/PaginaAdris/img/imgTodo/tazaHuleGrandeVino.jpg",
+            "imagen": "img/imgTodo/tazaHuleGrandeVino.jpg",
             "color": "bg-rose-800",
             "precio": 280.8,
             "size": "GRANDE"
@@ -372,7 +372,7 @@
             "pesogrl": "",
             "categoria": "lentes",
             "descripcion": "",
-            "imagen": "/PaginaAdris/img/imgTodo/lentesLamparaOrimar.jpg",
+            "imagen": "img/imgTodo/lentesLamparaOrimar.jpg",
             "color": "",
             "precio": 147.6,
             "size": ""
@@ -385,7 +385,7 @@
             "pesogrl": "4 L",
             "categoria": "krit",
             "descripcion": "",
-            "imagen": "/PaginaAdris/img/imgTodo/Krit4L.jpg",
+            "imagen": "img/imgTodo/Krit4L.jpg",
             "color": "",
             "precio": 733.74,
             "size": ""
@@ -398,7 +398,7 @@
             "pesogrl": "",
             "categoria": "caimanes",
             "descripcion": "",
-            "imagen": "/PaginaAdris/img/imgTodo/caimanesRojos.jpg",
+            "imagen": "img/imgTodo/caimanesRojos.jpg",
             "color": "bg-red-500",
             "precio": 629.85,
             "size": ""
@@ -411,7 +411,7 @@
             "pesogrl": "",
             "categoria": "agujas",
             "descripcion": "",
-            "imagen": "/PaginaAdris/img/imgTodo/agujas30Corta.jpg",
+            "imagen": "img/imgTodo/agujas30Corta.jpg",
             "color": "",
             "precio": 1190.0,
             "size": ""
@@ -424,7 +424,7 @@
             "pesogrl": "",
             "categoria": "sutura",
             "descripcion": "",
-            "imagen": "/PaginaAdris/img/imgTodo/sutura45x17.jpg",
+            "imagen": "img/imgTodo/sutura45x17.jpg",
             "color": "",
             "precio": 424.8,
             "size": " 45X1.7 CM"
@@ -437,7 +437,7 @@
             "pesogrl": "",
             "categoria": "sutura",
             "descripcion": "",
-            "imagen": "/PaginaAdris/img/imgTodo/sutura45x20.jpg",
+            "imagen": "img/imgTodo/sutura45x20.jpg",
             "color": "",
             "precio": 424.8,
             "size": "45X2.0CM"
@@ -450,7 +450,7 @@
             "pesogrl": "",
             "categoria": "sutura",
             "descripcion": "",
-            "imagen": "/PaginaAdris/img/imgTodo/sutura70x2.jpg",
+            "imagen": "img/imgTodo/sutura70x2.jpg",
             "color": "",
             "precio": 405.0,
             "size": " 70 X 2 CM"
@@ -463,7 +463,7 @@
             "pesogrl": "",
             "categoria": "cemento",
             "descripcion": "",
-            "imagen": "/PaginaAdris/img/imgTodo/cementoTemporaCavex.jpg",
+            "imagen": "img/imgTodo/cementoTemporaCavex.jpg",
             "color": "",
             "precio": 673.06,
             "size": ""
@@ -476,7 +476,7 @@
             "pesogrl": "",
             "categoria": "eyectores",
             "descripcion": "",
-            "imagen": "/PaginaAdris/img/imgTodo/eyectorBlancoBlanco.jpg",
+            "imagen": "img/imgTodo/eyectorBlancoBlanco.jpg",
             "color": "bg-white-500",
             "precio": 388.8,
             "size": ""
@@ -489,7 +489,7 @@
             "pesogrl": "",
             "categoria": "eyectores",
             "descripcion": "",
-            "imagen": "/PaginaAdris/img/imgTodo/eyectorTransparenteBlanco.jpg",
+            "imagen": "img/imgTodo/eyectorTransparenteBlanco.jpg",
             "color": "",
             "precio": 427.68,
             "size": ""
@@ -502,7 +502,7 @@
             "pesogrl": "",
             "categoria": "eyectores",
             "descripcion": "",
-            "imagen": "/PaginaAdris/img/imgTodo/eyectorTransparenteAzul.jpg",
+            "imagen": "img/imgTodo/eyectorTransparenteAzul.jpg",
             "color": "bg-sky-500",
             "precio": 427.68,
             "size": ""
@@ -515,7 +515,7 @@
             "pesogrl": "1KG",
             "categoria": "yeso",
             "descripcion": "",
-            "imagen": "/PaginaAdris/img/imgTodo/yesoPiedraAmarillo.jpg",
+            "imagen": "img/imgTodo/yesoPiedraAmarillo.jpg",
             "color": "bg-yellow-500",
             "precio": 336.95,
             "size": ""
@@ -528,7 +528,7 @@
             "pesogrl": "1KG",
             "categoria": "yeso",
             "descripcion": "",
-            "imagen": "/PaginaAdris/img/imgTodo/yesoPiedraAzul.jpg",
+            "imagen": "img/imgTodo/yesoPiedraAzul.jpg",
             "color": "bg-sky-500",
             "precio": 336.95,
             "size": ""
@@ -541,7 +541,7 @@
             "pesogrl": "",
             "categoria": "clinpro",
             "descripcion": "",
-            "imagen": "/PaginaAdris/img/imgTodo/clinproMelo.jpg",
+            "imagen": "img/imgTodo/clinproMelo.jpg",
             "color": "",
             "precio": 170.3,
             "size": ""
@@ -554,7 +554,7 @@
             "pesogrl": "",
             "categoria": "flour",
             "descripcion": "",
-            "imagen": "/PaginaAdris/img/imgTodo/flourUnidosis.jpg",
+            "imagen": "img/imgTodo/flourUnidosis.jpg",
             "color": "",
             "precio": 516.6,
             "size": ""
@@ -567,7 +567,7 @@
             "pesogrl": "",
             "categoria": "cubrebocas",
             "descripcion": "",
-            "imagen": "/PaginaAdris/img/imgTodo/cubrebocasAzulMedicom.jpg",
+            "imagen": "img/imgTodo/cubrebocasAzulMedicom.jpg",
             "color": "bg-sky-500",
             "precio": 665.2,
             "size": ""
@@ -580,7 +580,7 @@
             "pesogrl": "",
             "categoria": "hilodental",
             "descripcion": "",
-            "imagen": "/PaginaAdris/img/imgTodo/hiloDentalExpertPro.jpg",
+            "imagen": "img/imgTodo/hiloDentalExpertPro.jpg",
             "color": "",
             "precio": 322.9,
             "size": "25 M"
@@ -593,7 +593,7 @@
             "pesogrl": "",
             "categoria": "cepillo",
             "descripcion": "",
-            "imagen": "/PaginaAdris/img/imgTodo/kitCepilloOrtodoncia.jpg",
+            "imagen": "img/imgTodo/kitCepilloOrtodoncia.jpg",
             "color": "",
             "precio": 320.75,
             "size": ""
@@ -606,7 +606,7 @@
             "pesogrl": "350 ML",
             "categoria": "enjuague",
             "descripcion": "",
-            "imagen": "/PaginaAdris/img/imgTodo/enjuagueGingivitis350.jpg",
+            "imagen": "img/imgTodo/enjuagueGingivitis350.jpg",
             "color": "",
             "precio": 421.86,
             "size": ""
@@ -619,7 +619,7 @@
             "pesogrl": " 2LT ",
             "categoria": "enjuague",
             "descripcion": "",
-            "imagen": "/PaginaAdris/img/imgTodo/enjuagueComplete2Lt.jpg",
+            "imagen": "img/imgTodo/enjuagueComplete2Lt.jpg",
             "color": "",
             "precio": 615.39,
             "size": ""
@@ -632,7 +632,7 @@
             "pesogrl": "",
             "categoria": "hilodental",
             "descripcion": "",
-            "imagen": "/PaginaAdris/img/imgTodo/hiloSatin25M.jpg",
+            "imagen": "img/imgTodo/hiloSatin25M.jpg",
             "color": "",
             "precio": 218.15,
             "size": "25 MT"
@@ -645,7 +645,7 @@
             "pesogrl": "",
             "categoria": "hilodental",
             "descripcion": "",
-            "imagen": "/PaginaAdris/img/imgTodo/hiloSuper.jpg",
+            "imagen": "img/imgTodo/hiloSuper.jpg",
             "color": "",
             "precio": 253.1,
             "size": ""
@@ -658,7 +658,7 @@
             "pesogrl": "",
             "categoria": "cepillo",
             "descripcion": "",
-            "imagen": "/PaginaAdris/img/imgTodo/cepilloExpertInterdental20.jpg",
+            "imagen": "img/imgTodo/cepilloExpertInterdental20.jpg",
             "color": "",
             "precio": 255.25,
             "size": ""
