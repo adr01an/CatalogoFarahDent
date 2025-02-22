@@ -1,0 +1,38 @@
+
+
+<section>
+    <!-- <nav class="bg-white shadow-md shadow-indigo-500/50"> -->
+       <nav class="bg-white shadow-sm shadow-cyan-500/50">
+           <header class="flex justify-between items-center text-black py-3 px-8">
+               
+               <!-- Logo -->
+               <p id="irmenuid" >
+                   <img  class="w-30 hover:scale-105 transition-all" src="./img/pnglogo.png" alt="Logo">
+               </p>
+   
+               <!-- Menú normal (escondido en móviles) -->
+               <ul  class="hidden md:flex items-center gap-6 font-semibold text-base">
+                   <!-- <li class="p-2 py-1 hover:bg-indigo-500 hover:text-white rounded-md transition-all cursor-pointer">Home</li> -->
+                   <li id="irHomeid" class="p-2 py-1 hover:bg-cyan-500 hover:text-white rounded-md transition-all cursor-pointer">Home</li>
+                   <li id="irallProductosid" class="p-2 py-1 hover:bg-cyan-500 hover:text-white rounded-md transition-all cursor-pointer">Productos</li>
+                   <li class="p-2 py-1 hover:bg-sky-400 hover:text-white rounded-md transition-all cursor-pointer">Contacto</li>
+               </ul>
+   
+               <!-- Botón de menú para móviles -->
+               
+               <i id="menu-toggle" class="block md:!hidden bx bx-menu text-3xl cursor-pointer"></i>
+   
+   
+           </header>
+   
+           <!-- Menú desplegable para móviles -->
+           <ul id="mobile-menu" class="hidden flex-col bg-white text-black text-center font-semibold space-y-4 py-4 md:hidden">
+               <li id="irHomeiddos" class="p-2 py-1 hover:bg-cyan-500 hover:text-white rounded-md transition-all cursor-pointer">Home</li>
+               <li id="irallProductosiddos" class="p-2 py-1 hover:bg-cyan-500 hover:text-white rounded-md transition-all cursor-pointer">Productos</li>
+               <li class="p-2 py-1 hover:bg-sky-400 hover:text-white rounded-md transition-all cursor-pointer">Contacto</li>
+           </ul>
+       </nav>
+      
+</section>
+
+<script src="./scripts/menutoogle.js"></script>
