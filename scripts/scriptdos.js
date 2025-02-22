@@ -28,7 +28,7 @@
 //                 </div>
 
 document.addEventListener('DOMContentLoaded', function() {
-    fetch('/PaginaAdris/json/buscado.json')
+    fetch('https://github.com/adr01an/CatalogoFarahDent/edit/main/json/buscado.json')
         .then(response => response.json())
         .then(data => {
             const productosContainer = document.getElementById('productoDiv');
