@@ -1,0 +1,362 @@
+[
+    {
+        "id": 1,
+        "nombre": "CAMPOS BOLSA",
+        "cantidadPaquete":50,
+        "marca":"ANELSAM",
+        "categoria": "Campos",
+        "descripcion":"Blue Latex Exam Gloves",
+        "imagen": "/PaginaAdris/img/guantes.jpg",    
+        "informacion":[
+                    {
+                        "id":1,
+                        "color":"bg-yellow-300",
+                        "precio":394
+                        
+                        
+                    },
+                    {
+                        "id":2,
+                        "color":"bg-orange-500",
+                        "precio":361
+                        
+                    },
+                    {
+                        "id":3,
+                        "color":"bg-green-500",
+                        "precio":328
+                        
+                    },
+                    {
+                        "id":4,
+                        "color":"bg-sky-500",
+                        "precio":394
+                        
+                    }
+                ]
+    },
+    {
+        "id": 2,
+        "nombre": "Campo Hendido",
+        "cantidadPaquete":10,
+        "marca":"i dont know",
+        "categoria": "Campos",
+        "descripcion":"Blue Latex Exam Gloves",
+        "imagen": "/PaginaAdris/img/guantes.jpg",
+        "informacion":[
+                        {
+                            "id":1,
+                            "color":"bg-stone-50",
+                            "precio":396
+                            
+                            
+                        }
+                    ]
+    },
+    {
+        "id": 3,
+        "nombre": "Campo sin Hendir",
+        "cantidadPaquete":10,
+        "marca":"i dont know",
+        "categoria": "Campos",
+        "descripcion":"Blue Latex Exam Gloves",
+        "imagen": "/PaginaAdris/img/guantes.jpg",
+        "informacion":[
+            {
+                "id":1,
+                "color":"bg-stone-50",
+                "precio":198
+                
+                
+            }
+        ]
+
+    },
+    {
+        "id": 4,
+        "nombre": "Babero Jumbo Valdi",
+        "cantidadPaquete":10,
+        "marca":"Valdi",
+        "categoria": "Babero",
+        "descripcion":"Blue Latex Exam Gloves",
+        "imagen": "/PaginaAdris/img/guantes.jpg",
+        "informacion":[
+            {
+                "id":1,
+                "color":"bg-purple-500",
+                "precio":134
+                
+                
+            },
+            {
+                "id":2,
+                "color":"bg-green-500",
+                "precio":134
+                
+                
+            },
+            {
+                "id":3,
+                "color":"bg-teal-300",
+                "precio":134
+                
+                
+            },
+            {
+                "id":4,
+                "color":"bg-pink-500",
+                "precio":134
+                
+                
+            },
+            {
+                "id":5,
+                "color":"bg-blue-200",
+                "precio":134
+                
+                
+            },
+            {
+                "id":6,
+                "color":"bg-rose-200",
+                "precio":134
+                
+                
+            }
+        ]
+
+    },
+    {
+        "id": 5,
+        "nombre": "BABERO ESTAMPADO LAVABLE",
+        "cantidadPaquete":10,
+        "marca":"i dont know",
+        "categoria": "Campos",
+        "descripcion":"Blue Latex Exam Gloves",
+        "imagen": "/PaginaAdris/img/guantes.jpg",
+        "informacion":[
+            {
+                "id":1,
+                "color":"bg-stone-50",
+                "precio":198
+                
+                
+            }
+        ]
+
+    },
+    {
+        "id": 6,
+        "nombre": "BATA CON PUÑO",
+        "cantidadPaquete":10,
+        "marca":"CARDIGAN",
+        "categoria": "Campos",
+        "descripcion":"Blue Latex Exam Gloves",
+        "imagen": "/PaginaAdris/img/guantes.jpg",
+        "informacion":[
+            {
+                "id":1,
+                "color":"bg-stone-50",
+                "precio":505
+                
+                
+            }
+        ]
+
+    },
+    {
+        "id": 7,
+        "nombre": "GUANTES DE NITRILO",
+        "cantidadPaquete":10,
+        "marca":"CARDIGAN",
+        "size": "",
+        "categoria": "Guantes",
+        "descripcion":"Blue Latex Exam Gloves",
+        "imagen": "/PaginaAdris/img/guantes.jpg",
+        "informacion":[
+            {
+                "id":1,
+                "color":"bg-sky-500"
+                
+                       
+            }
+        ],
+        "sizes":[
+            {
+                "id": 1,
+                "size":"mediano",
+                "precio":942.5
+
+
+            },
+            {
+                "id":2,
+                "size":"extrachico",
+                "precio":471
+            }
+        ]
+
+    },
+    {
+        "id": 8,
+        "nombre": "ALGINATO ORIGINAL",
+        "cantidadPaquete":10,
+        "marca":"GAYS",
+        "categoria": "alginato",
+        "descripcion":"Blue Latex Exam Gloves",
+        "imagen": "/PaginaAdris/img/guantes.jpg",
+        "informacion":[
+            {
+                "id":1,
+                "color":"bg-stone-50",
+                "precio":410,
+                "pesogr":453
+                
+                
+            }
+        ]
+
+    },
+    {
+        "id": 9,
+        "nombre": "ALGINATO SUPERADO",
+        "cantidadPaquete":10,
+        "marca":"GAYS",
+        "categoria": "alginato",
+        "descripcion":"Blue Latex Exam Gloves",
+        "imagen": "/PaginaAdris/img/guantes.jpg",
+        "informacion":[
+            {
+                "id":1,
+                "color":"bg-stone-50",
+                "precio":410,
+                "pesogr":453
+                
+                
+            }
+        ]
+
+    },
+    {
+        "id": 10,
+        "nombre": "TROPICAL GIN ALGINATO CROMATICO",
+        "cantidadPaquete":10,
+        "marca":"tropical",
+        "categoria": "alginato",
+        "descripcion":"Blue Latex Exam Gloves",
+        "imagen": "/PaginaAdris/img/guantes.jpg",
+        "informacion":[
+            {
+                "id":1,
+                "color":"bg-stone-50",
+                "precio":629,
+                "pesogr":453
+                
+                
+            }
+        ]
+
+    },
+    {
+        "id": 11,
+        "nombre": "ESPATULA PLASTICO",
+        "cantidadPaquete":"",
+        "marca":"",
+        "categoria": "espatula",
+        "descripcion":"ESPATULA PLASTICO ALGINATO FOX VERDE",
+        "imagen": "/PaginaAdris/img/guantes.jpg",
+        "informacion":[
+            {
+                "id":1,
+                "color":"bg-green-500",
+                "precio":51.5,
+                "pesogr":""
+                
+                
+            }
+        ]
+
+    },
+    {
+        "id": 12,
+        "nombre": "ESPATULA YESO BUFALO ARAIN",
+        "cantidadPaquete":"",
+        "marca":"BUFALO",
+        "categoria": "espatula",
+        "descripcion":"ESPATULA PLASTICO ALGINATO FOX VERDE",
+        "imagen": "/PaginaAdris/img/guantes.jpg",
+        "informacion":[
+            {
+                "id":1,
+                "color":"bg-stone-50",
+                "precio":182,
+                "pesogr":""
+                
+                
+            }
+        ]
+
+    },
+    {
+        "id": 14,
+        "nombre": "TAZA DE HULE",
+        "cantidadPaquete":"",
+        "marca":"ANELSAM",
+        "categoria": "Taza",
+        "descripcion":"",
+        "imagen": "/PaginaAdris/img/guantes.jpg",
+        "informacion":[
+            {
+                "id":1,
+                "color":"bg-stone-50",
+                "precio":90,
+                "pesogr":""
+                
+                
+            }
+        ],
+        "sizes":[
+            {
+                "id":1,
+                "size":"chica"
+
+            }
+        ]
+
+
+
+    },
+    {
+        "id": 14,
+        "nombre": "TAZA DE HULE GRANDE VALDI",
+        "cantidadPaquete":"",
+        "marca":"ANELSAM",
+        "categoria": "Taza",
+        "descripcion":"",
+        "imagen": "/PaginaAdris/img/guantes.jpg",
+        "informacion":[
+            {
+                "id":1,
+                "color":"bg-stone-50",
+                "precio":90,
+                "pesogr":""
+                
+                
+            }
+        ],
+        "sizes":[
+            {
+                "id":1,
+                "size":"chica"
+
+            }
+        ]
+
+
+
+    }
+    
+
+   
+    
+]

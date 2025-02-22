@@ -1,0 +1,54 @@
+[
+    {
+        "id": 1,
+        "nombre": "CAMPOS ANELSAM",
+        "cantidadPaquete": 50,
+        "marca": "ANELSAM",
+        "pesogrl": "",
+        "categoria": "campos",
+        "descripcion": "",
+        "imagen": "/PaginaAdris/img/imgTodo/campoAmrillo.jpg",
+        "color": "bg-yellow-300",
+        "precio": 393.96,
+        "size": ""
+    },
+    {
+        "id": 16,
+        "nombre": "GUANTES AZUL  DE NITRILO  ANELSAM",
+        "cantidadPaquete": 100,
+        "marca": " ANELSAM",
+        "pesogrl": "",
+        "categoria": "guantes",
+        "descripcion": "",
+        "imagen": "/PaginaAdris/img/imgTodo/guantesExtrachicos.jpg",
+        "color": "bg-sky-500",
+        "precio": 471.25,
+        "size": "EXTRACHICO"
+    },
+    {
+        "id": 17,
+        "nombre": "ALGINATO ORIGINAL GAYS ",
+        "cantidadPaquete": null,
+        "marca": "GAYS",
+        "pesogrl": "453 GRS",
+        "categoria": "alginato",
+        "descripcion": "",
+        "imagen": "/PaginaAdris/img/imgTodo/alginatoOriginal.jpg",
+        "color": "",
+        "precio": 410.82,
+        "size": ""
+    },
+    {
+        "id": 4,
+        "nombre": "CAMPOS ANELSAM",
+        "cantidadPaquete": 50.0,
+        "marca": "ANELSAM",
+        "pesogrl": "",
+        "categoria": "campos",
+        "descripcion": "",
+        "imagen": "/PaginaAdris/img/imgTodo/campoAzulClaro.jpg",
+        "color": "bg-sky-500",
+        "precio": 393.96,
+        "size": ""
+    }
+]
