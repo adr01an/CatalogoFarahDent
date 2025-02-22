@@ -671,7 +671,7 @@
             "pesogrl": "",
             "categoria": "pasta",
             "descripcion": "",
-            "imagen": "/PaginaAdris/img/imgTodo/pastaEnciasDetox.jpg",
+            "imagen": "img/imgTodo/pastaEnciasDetox.jpg",
             "color": "",
             "precio": 195.06,
             "size": ""
@@ -684,7 +684,7 @@
             "pesogrl": "",
             "categoria": "pasta",
             "descripcion": "",
-            "imagen": "/PaginaAdris/img/imgTodo/pastaDisneyProStages.jpg",
+            "imagen": "img/imgTodo/pastaDisneyProStages.jpg",
             "color": "",
             "precio": 90.51,
             "size": ""
@@ -697,7 +697,7 @@
             "pesogrl": "",
             "categoria": "pasta",
             "descripcion": "",
-            "imagen": "/PaginaAdris/img/imgTodo/pastaProSaludStages.jpg",
+            "imagen": "img/imgTodo/pastaProSaludStages.jpg",
             "color": "",
             "precio": 109.18,
             "size": ""
@@ -710,7 +710,7 @@
             "pesogrl": "",
             "categoria": "cepillo",
             "descripcion": "",
-            "imagen": "/PaginaAdris/img/imgTodo/cepilloKidsMickey3anos.jpg",
+            "imagen": "img/imgTodo/cepilloKidsMickey3anos.jpg",
             "color": "",
             "precio": 77.34,
             "size": ""
@@ -723,7 +723,7 @@
             "pesogrl": "",
             "categoria": "cepillo",
             "descripcion": "",
-            "imagen": "/PaginaAdris/img/imgTodo/cepilloStages3Suave5-7anos.jpg",
+            "imagen": "img/imgTodo/cepilloStages3Suave5-7anos.jpg",
             "color": "",
             "precio": 124.2,
             "size": ""
@@ -736,7 +736,7 @@
             "pesogrl": "",
             "categoria": "cepillo",
             "descripcion": "",
-            "imagen": "/PaginaAdris/img/imgTodo/cepillloStages1ExtraSuave4-24Meses.jpg",
+            "imagen": "img/imgTodo/cepillloStages1ExtraSuave4-24Meses.jpg",
             "color": "",
             "precio": 82.36,
             "size": ""
@@ -749,7 +749,7 @@
             "pesogrl": "",
             "categoria": "cepillo",
             "descripcion": "",
-            "imagen": "/PaginaAdris/img/imgTodo/cepilloStages4Suave6anos.jpg",
+            "imagen": "img/imgTodo/cepilloStages4Suave6anos.jpg",
             "color": "",
             "precio": 68.84,
             "size": ""
@@ -762,7 +762,7 @@
             "pesogrl": "12 GR ",
             "categoria": "acido",
             "descripcion": "",
-            "imagen": "/PaginaAdris/img/imgTodo/acidoGrabador.jpg",
+            "imagen": "img/imgTodo/acidoGrabador.jpg",
             "color": "",
             "precio": 237.6,
             "size": ""
@@ -775,7 +775,7 @@
             "pesogrl": " 2GRS",
             "categoria": "acido",
             "descripcion": "",
-            "imagen": "/PaginaAdris/img/imgTodo/acidoEco-Etch.jpg",
+            "imagen": "img/imgTodo/acidoEco-Etch.jpg",
             "color": "",
             "precio": 122.61,
             "size": ""
@@ -788,7 +788,7 @@
             "pesogrl": "",
             "categoria": "acido",
             "descripcion": "",
-            "imagen": "/PaginaAdris/img/imgTodo/acidoGrabadorGelAcondicionador.jpg",
+            "imagen": "img/imgTodo/acidoGrabadorGelAcondicionador.jpg",
             "color": "",
             "precio": 145.39,
             "size": ""
@@ -801,7 +801,7 @@
             "pesogrl": "",
             "categoria": "gasas",
             "descripcion": "",
-            "imagen": "/PaginaAdris/img/imgTodo/gasasPaqueteMedicom.jpg",
+            "imagen": "img/imgTodo/gasasPaqueteMedicom.jpg",
             "color": "",
             "precio": 450.6,
             "size": ""
@@ -814,7 +814,7 @@
             "pesogrl": "",
             "categoria": "gasas",
             "descripcion": "",
-            "imagen": "/PaginaAdris/img/imgTodo/gasaHemostaticaS-99.jpg",
+            "imagen": "img/imgTodo/gasaHemostaticaS-99.jpg",
             "color": "",
             "precio": 137.52,
             "size": ""
@@ -827,7 +827,7 @@
             "pesogrl": "",
             "categoria": "microaplicators",
             "descripcion": "",
-            "imagen": "/PaginaAdris/img/imgTodo/microAplicatorsRegularPremiumPlus.jpg",
+            "imagen": "img/imgTodo/microAplicatorsRegularPremiumPlus.jpg",
             "color": "",
             "precio": 363.5,
             "size": ""
@@ -840,7 +840,7 @@
             "pesogrl": "",
             "categoria": "microaplicators",
             "descripcion": "",
-            "imagen": "/PaginaAdris/img/imgTodo/microAplicatorsFinoPremierPlus.jpg",
+            "imagen": "img/imgTodo/microAplicatorsFinoPremierPlus.jpg",
             "color": "",
             "precio": 363.5,
             "size": ""
@@ -853,7 +853,7 @@
             "pesogrl": "",
             "categoria": "caja",
             "descripcion": "",
-            "imagen": "/PaginaAdris/img/imgTodo/cajaOrthoFiusha.jpg",
+            "imagen": "img/imgTodo/cajaOrthoFiusha.jpg",
             "color": "bg-pink-700",
             "precio": 46.8,
             "size": ""
@@ -866,7 +866,7 @@
             "pesogrl": "",
             "categoria": "caja",
             "descripcion": "",
-            "imagen": "/PaginaAdris/img/imgTodo/cajaOrthoVerde.jpg",
+            "imagen": "img/imgTodo/cajaOrthoVerde.jpg",
             "color": "bg-lime-500",
             "precio": 51.5,
             "size": ""
@@ -879,7 +879,7 @@
             "pesogrl": "",
             "categoria": "careta",
             "descripcion": "",
-            "imagen": "/PaginaAdris/img/imgTodo/caretaInyeccion3Micas.jpg",
+            "imagen": "img/imgTodo/caretaInyeccion3Micas.jpg",
             "color": "",
             "precio": 172.8,
             "size": ""
@@ -892,7 +892,7 @@
             "pesogrl": "",
             "categoria": "espejo",
             "descripcion": "",
-            "imagen": "/PaginaAdris/img/imgTodo/espejoMuelaAzul.jpg",
+            "imagen": "img/imgTodo/espejoMuelaAzul.jpg",
             "color": "bg-sky-500",
             "precio": 133.92,
             "size": ""
@@ -905,7 +905,7 @@
             "pesogrl": "",
             "categoria": "ratones",
             "descripcion": "",
-            "imagen": "/PaginaAdris/img/imgTodo/ratonesBolsa50.jpg",
+            "imagen": "img/imgTodo/ratonesBolsa50.jpg",
             "color": "",
             "precio": 74.16,
             "size": ""
@@ -918,7 +918,7 @@
             "pesogrl": "",
             "categoria": "ratones",
             "descripcion": "",
-            "imagen": "/PaginaAdris/img/imgTodo/ratonesBolsa180Fox.jpg",
+            "imagen": "img/imgTodo/ratonesBolsa180Fox.jpg",
             "color": "",
             "precio": 352.8,
             "size": ""
@@ -931,7 +931,7 @@
             "pesogrl": "",
             "categoria": "ratones",
             "descripcion": "",
-            "imagen": "/PaginaAdris/img/imgTodo/ratonesMaxi10.jpg",
+            "imagen": "img/imgTodo/ratonesMaxi10.jpg",
             "color": "",
             "precio": 49.68,
             "size": ""
@@ -944,7 +944,7 @@
             "pesogrl": "",
             "categoria": "canula",
             "descripcion": "",
-            "imagen": "/PaginaAdris/img/imgTodo/canulaQuirurgicaPremiumPlus.jpg",
+            "imagen": "img/imgTodo/canulaQuirurgicaPremiumPlus.jpg",
             "color": "bg-whitte-500",
             "precio": 357.66,
             "size": ""
@@ -957,7 +957,7 @@
             "pesogrl": "",
             "categoria": "cofia",
             "descripcion": "",
-            "imagen": "/PaginaAdris/img/imgTodo/cofiaAstronauta.jpg",
+            "imagen": "img/imgTodo/cofiaAstronauta.jpg",
             "color": "",
             "precio": 96.48,
             "size": ""
@@ -970,7 +970,7 @@
             "pesogrl": "",
             "categoria": "cofia",
             "descripcion": "",
-            "imagen": "/PaginaAdris/img/imgTodo/cofiaCamuflaje.jpg",
+            "imagen": "img/imgTodo/cofiaCamuflaje.jpg",
             "color": "",
             "precio": 96.48,
             "size": ""
@@ -983,7 +983,7 @@
             "pesogrl": "",
             "categoria": "cofia",
             "descripcion": "",
-            "imagen": "/PaginaAdris/img/imgTodo/cofiaLabios.jpg",
+            "imagen": "img/imgTodo/cofiaLabios.jpg",
             "color": "",
             "precio": 96.48,
             "size": ""
@@ -996,7 +996,7 @@
             "pesogrl": "",
             "categoria": "cofia",
             "descripcion": "",
-            "imagen": "/PaginaAdris/img/imgTodo/cofiaPasta.jpg",
+            "imagen": "img/imgTodo/cofiaPasta.jpg",
             "color": "",
             "precio": 96.48,
             "size": ""
@@ -1009,7 +1009,7 @@
             "pesogrl": "",
             "categoria": "cofia",
             "descripcion": "",
-            "imagen": "/PaginaAdris/img/imgTodo/cofiaMuelas.jpg",
+            "imagen": "img/imgTodo/cofiaMuelas.jpg",
             "color": "",
             "precio": 96.48,
             "size": ""
@@ -1022,7 +1022,7 @@
             "pesogrl": "",
             "categoria": "cofia",
             "descripcion": "",
-            "imagen": "/PaginaAdris/img/imgTodo/cofiaCepillos.jpg",
+            "imagen": "img/imgTodo/cofiaCepillos.jpg",
             "color": "",
             "precio": 96.48,
             "size": ""
@@ -1035,7 +1035,7 @@
             "pesogrl": "",
             "categoria": "cofia",
             "descripcion": "",
-            "imagen": "/PaginaAdris/img/imgTodo/cofiaDinosaurio.jpg",
+            "imagen": "img/imgTodo/cofiaDinosaurio.jpg",
             "color": "",
             "precio": 115.2,
             "size": ""
@@ -1048,7 +1048,7 @@
             "pesogrl": "",
             "categoria": "dique",
             "descripcion": "",
-            "imagen": "/PaginaAdris/img/imgTodo/diqueG.jpg",
+            "imagen": "img/imgTodo/diqueG.jpg",
             "color": "bg-sky-500",
             "precio": 243.72,
             "size": " 5X5 "
@@ -1061,7 +1061,7 @@
             "pesogrl": "",
             "categoria": "dique",
             "descripcion": "",
-            "imagen": "/PaginaAdris/img/imgTodo/diqueG.jpg",
+            "imagen": "img/imgTodo/diqueG.jpg",
             "color": "bg-green-500",
             "precio": 1287.6,
             "size": "6X6 "
@@ -1074,7 +1074,7 @@
             "pesogrl": "1 LT ",
             "categoria": "hipoclorito",
             "descripcion": "",
-            "imagen": "/PaginaAdris/img/imgTodo/hopocloritoSodio.jpg",
+            "imagen": "img/imgTodo/hopocloritoSodio.jpg",
             "color": "",
             "precio": 617.75,
             "size": ""
@@ -1087,7 +1087,7 @@
             "pesogrl": "1 KG",
             "categoria": "SLKY",
             "descripcion": "",
-            "imagen": "/PaginaAdris/img/imgTodo/slkyRock.jpg",
+            "imagen": "img/imgTodo/slkyRock.jpg",
             "color": "",
             "precio": 389.64,
             "size": ""
@@ -1100,7 +1100,7 @@
             "pesogrl": "",
             "categoria": "LIMAS",
             "descripcion": "",
-            "imagen": "/PaginaAdris/img/imgTodo/limas15-20.jpg",
+            "imagen": "img/imgTodo/limas15-20.jpg",
             "color": "",
             "precio": 149.69,
             "size": " 25MM"
@@ -1113,7 +1113,7 @@
             "pesogrl": "",
             "categoria": "espatula",
             "descripcion": "",
-            "imagen": "/PaginaAdris/img/imgTodo/espatulaNaranja.jpg",
+            "imagen": "img/imgTodo/espatulaNaranja.jpg",
             "color": "bg-orange-500",
             "precio": 51.45,
             "size": ""
@@ -1126,7 +1126,7 @@
             "pesogrl": "",
             "categoria": "esterilizar",
             "descripcion": "",
-            "imagen": "/PaginaAdris/img/imgTodo/bolsaEsterelizar.jpg",
+            "imagen": "img/imgTodo/bolsaEsterelizar.jpg",
             "color": "",
             "precio": 376.35,
             "size": " 1/2 X 10"
@@ -1139,7 +1139,7 @@
             "pesogrl": "",
             "categoria": "ligas",
             "descripcion": "",
-            "imagen": "/PaginaAdris/img/imgTodo/ligasIntraorales3-16.jpg",
+            "imagen": "img/imgTodo/ligasIntraorales3-16.jpg",
             "color": "",
             "precio": 198.2,
             "size": "3/16 GORILA"
@@ -1152,7 +1152,7 @@
             "pesogrl": "",
             "categoria": "ligas",
             "descripcion": "",
-            "imagen": "/PaginaAdris/img/imgTodo/ligaIntraorales1-8Wallaby.jpg",
+            "imagen": "img/imgTodo/ligaIntraorales1-8Wallaby.jpg",
             "color": "",
             "precio": 198.2,
             "size": "1/8 WALLABY"
@@ -1165,7 +1165,7 @@
             "pesogrl": "",
             "categoria": "ligas",
             "descripcion": "",
-            "imagen": "/PaginaAdris/img/imgTodo/ligasIntraorales1-8Lobo.jpg",
+            "imagen": "img/imgTodo/ligasIntraorales1-8Lobo.jpg",
             "color": "",
             "precio": 99.1,
             "size": "1/8 LOBO"
@@ -1178,7 +1178,7 @@
             "pesogrl": "",
             "categoria": "te",
             "descripcion": "",
-            "imagen": "/PaginaAdris/img/imgTodo/teEconomBond.jpg",
+            "imagen": "img/imgTodo/teEconomBond.jpg",
             "color": "",
             "precio": 324.61,
             "size": ""
@@ -1191,7 +1191,7 @@
             "pesogrl": "",
             "categoria": "fresa",
             "descripcion": "",
-            "imagen": "/PaginaAdris/img/imgTodo/fresaDiamante805-010.jpg",
+            "imagen": "img/imgTodo/fresaDiamante805-010.jpg",
             "color": "",
             "precio": 28.74,
             "size": "805-010 "
@@ -1204,7 +1204,7 @@
             "pesogrl": "",
             "categoria": "fresa",
             "descripcion": "",
-            "imagen": "/PaginaAdris/img/imgTodo/fresaDiamante805-009.jpg",
+            "imagen": "img/imgTodo/fresaDiamante805-009.jpg",
             "color": "",
             "precio": 28.74,
             "size": "805-009"
@@ -1217,7 +1217,7 @@
             "pesogrl": "",
             "categoria": "loseta",
             "descripcion": "",
-            "imagen": "/PaginaAdris/img/imgTodo/losetam.jpg",
+            "imagen": "img/imgTodo/losetam.jpg",
             "color": "",
             "precio": 16.7,
             "size": "8X15X0.09 CM"
@@ -1230,7 +1230,7 @@
             "pesogrl": "250 ML",
             "categoria": "liquido",
             "descripcion": "",
-            "imagen": "/PaginaAdris/img/imgTodo/liquidoRapido.jpg",
+            "imagen": "img/imgTodo/liquidoRapido.jpg",
             "color": "",
             "precio": 137.16,
             "size": ""
@@ -1243,7 +1243,7 @@
             "pesogrl": "",
             "categoria": "caja",
             "descripcion": "",
-            "imagen": "/PaginaAdris/img/imgTodo/cajaNaranjaC.jpg",
+            "imagen": "img/imgTodo/cajaNaranjaC.jpg",
             "color": "bg-orange-500",
             "precio": 17.65,
             "size": ""
@@ -1256,7 +1256,7 @@
             "pesogrl": "",
             "categoria": "caja",
             "descripcion": "",
-            "imagen": "/PaginaAdris/img/imgTodo/cajaRosaC.jpg",
+            "imagen": "img/imgTodo/cajaRosaC.jpg",
             "color": "bg-pink-500",
             "precio": 17.65,
             "size": ""
@@ -1269,7 +1269,7 @@
             "pesogrl": "",
             "categoria": "caja",
             "descripcion": "",
-            "imagen": "/PaginaAdris/img/imgTodo/cajaMoradaC.jpg",
+            "imagen": "img/imgTodo/cajaMoradaC.jpg",
             "color": "bg-purple-500",
             "precio": 17.65,
             "size": ""
@@ -1282,7 +1282,7 @@
             "pesogrl": "",
             "categoria": "caja",
             "descripcion": "",
-            "imagen": "/PaginaAdris/img/imgTodo/cajaAmarillaC.jpg",
+            "imagen": "img/imgTodo/cajaAmarillaC.jpg",
             "color": "bg-yellow-500",
             "precio": 17.65,
             "size": ""
@@ -1295,7 +1295,7 @@
             "pesogrl": "",
             "categoria": "caja",
             "descripcion": "",
-            "imagen": "/PaginaAdris/img/imgTodo/cajaRosaC.jpg",
+            "imagen": "img/imgTodo/cajaRosaC.jpg",
             "color": "bg-pink-500",
             "precio": 17.65,
             "size": ""
@@ -1308,7 +1308,7 @@
             "pesogrl": "",
             "categoria": "caja",
             "descripcion": "",
-            "imagen": "/PaginaAdris/img/imgTodo/cajaAzulC.jpg",
+            "imagen": "img/imgTodo/cajaAzulC.jpg",
             "color": "bg-sky-500",
             "precio": 17.65,
             "size": ""
@@ -1321,7 +1321,7 @@
             "pesogrl": "",
             "categoria": "anestesia",
             "descripcion": "",
-            "imagen": "/PaginaAdris/img/imgTodo/turbocaina.jpg",
+            "imagen": "img/imgTodo/turbocaina.jpg",
             "color": "bg-sky-500",
             "precio": 17.65,
             "size": ""
