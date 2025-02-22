@@ -28,7 +28,8 @@
 //                 </div>
 
 document.addEventListener('DOMContentLoaded', function() {
-    fetch('/adr01an/CatalogoFarahDent/blob/main/json/buscado.json')
+    fetch('https://github.com/adr01an/CatalogoFarahDent/main/json/buscado.json')
+       
         // https://github.com/adr01an/CatalogoFarahDent/blob/main/json/buscado.json
         .then(response => response.json())
         .then(data => {
