@@ -8,7 +8,7 @@
             "pesogrl": "",
             "categoria": "campos",
             "descripcion": "",
-            "imagen": "/PaginaAdris/img/imgTodo/campoAmrillo.jpg",
+            "imagen": "img/imgTodo/campoAmrillo.jpg",
             "color": "bg-yellow-300",
             "precio": 393.96,
             "size": ""
@@ -21,7 +21,7 @@
             "pesogrl": "",
             "categoria": " s",
             "descripcion": "",
-            "imagen": "/PaginaAdris/img/imgTodo/campoNaranja.jpg",
+            "imagen": "img/imgTodo/campoNaranja.jpg",
             "color": "bg-orange-500",
             "precio": 361.13,
             "size": ""
@@ -34,7 +34,7 @@
             "pesogrl": "",
             "categoria": "campos",
             "descripcion": "",
-            "imagen": "/PaginaAdris/img/imgTodo/campoVerde.jpg",
+            "imagen": "img/imgTodo/campoVerde.jpg",
             "color": "bg-green-500",
             "precio": 328.3,
             "size": ""
@@ -47,7 +47,7 @@
             "pesogrl": "",
             "categoria": "campos",
             "descripcion": "",
-            "imagen": "/PaginaAdris/img/imgTodo/campoAzulClaro.jpg",
+            "imagen": "img/imgTodo/campoAzulClaro.jpg",
             "color": "bg-sky-500",
             "precio": 393.96,
             "size": ""
@@ -60,7 +60,7 @@
             "pesogrl": "",
             "categoria": "campos",
             "descripcion": "",
-            "imagen": "/PaginaAdris/img/imgTodo/campoHendido.jpg",
+            "imagen": "img/imgTodo/campoHendido.jpg",
             "color": "",
             "precio": 396.0,
             "size": ""
@@ -73,7 +73,7 @@
             "pesogrl": "",
             "categoria": "campos",
             "descripcion": "",
-            "imagen": "/PaginaAdris/img/imgTodo/camposinHendir.jpg",
+            "imagen": "img/imgTodo/camposinHendir.jpg",
             "color": "",
             "precio": 198.0,
             "size": ""
@@ -86,7 +86,7 @@
             "pesogrl": "",
             "categoria": "babero",
             "descripcion": "",
-            "imagen": "/PaginaAdris/img/imgTodo/baberoEstampado.jpg",
+            "imagen": "img/imgTodo/baberoEstampado.jpg",
             "color": "",
             "precio": 207.35,
             "size": ""
@@ -99,7 +99,7 @@
             "pesogrl": "",
             "categoria": "babero",
             "descripcion": "",
-            "imagen": "/PaginaAdris/img/imgTodo/baberoMorado.jpg",
+            "imagen": "img/imgTodo/baberoMorado.jpg",
             "color": "bg-purple-500",
             "precio": 133.92,
             "size": " JUMBO"
@@ -112,7 +112,7 @@
             "pesogrl": "",
             "categoria": "babero",
             "descripcion": "",
-            "imagen": "/PaginaAdris/img/imgTodo/baberoVerde.jpg",
+            "imagen": "img/imgTodo/baberoVerde.jpg",
             "color": "bg-green-500",
             "precio": 133.92,
             "size": " JUMBO"
@@ -125,7 +125,7 @@
             "pesogrl": "",
             "categoria": "babero",
             "descripcion": "",
-            "imagen": "/PaginaAdris/img/imgTodo/baberoMenta.jpg",
+            "imagen": "img/imgTodo/baberoMenta.jpg",
             "color": "bg-teal-300",
             "precio": 133.92,
             "size": " JUMBO"
@@ -138,7 +138,7 @@
             "pesogrl": "",
             "categoria": "babero",
             "descripcion": "",
-            "imagen": "/PaginaAdris/img/imgTodo/baberoRosa.jpg",
+            "imagen": "img/imgTodo/baberoRosa.jpg",
             "color": "bg-pink-500",
             "precio": 133.92,
             "size": " JUMBO"
@@ -151,7 +151,7 @@
             "pesogrl": "",
             "categoria": "babero",
             "descripcion": "",
-            "imagen": "/PaginaAdris/img/imgTodo/baberoAzul.jpg",
+            "imagen": "img/imgTodo/baberoAzul.jpg",
             "color": "bg-sky-500",
             "precio": 133.92,
             "size": " JUMBO"
@@ -164,7 +164,7 @@
             "pesogrl": "",
             "categoria": "babero",
             "descripcion": "",
-            "imagen": "/PaginaAdris/img/imgTodo/baberoBeige.jpg",
+            "imagen": "img/imgTodo/baberoBeige.jpg"
             "color": "bg-red-200",
             "precio": 133.92,
             "size": " JUMBO"
@@ -177,7 +177,7 @@
             "pesogrl": "35 GR",
             "categoria": "bata",
             "descripcion": "",
-            "imagen": "/PaginaAdris/img/imgTodo/bataconPunos.jpg",
+            "imagen": "img/imgTodo/bataconPunos.jpg",
             "color": "",
             "precio": 505.44,
             "size": ""
@@ -190,7 +190,7 @@
             "pesogrl": "",
             "categoria": "guantes",
             "descripcion": "",
-            "imagen": "/PaginaAdris/img/imgTodo/guantesMedianos.jpg",
+            "imagen": "img/imgTodo/guantesMedianos.jpg",
             "color": "bg-sky-500",
             "precio": 942.5,
             "size": "MEDIANO"
@@ -203,7 +203,7 @@
             "pesogrl": "",
             "categoria": "guantes",
             "descripcion": "",
-            "imagen": "/PaginaAdris/img/imgTodo/guantesExtrachicos.jpg",
+            "imagen": "img/imgTodo/guantesExtrachicos.jpg",
             "color": "bg-sky-500",
             "precio": 471.25,
             "size": "EXTRACHICO"
@@ -216,7 +216,7 @@
             "pesogrl": "453 GRS",
             "categoria": "alginato",
             "descripcion": "",
-            "imagen": "/PaginaAdris/img/imgTodo/alginatoOriginal.jpg",
+            "imagen": "img/imgTodo/alginatoOriginal.jpg",
             "color": "",
             "precio": 410.82,
             "size": ""
@@ -229,7 +229,7 @@
             "pesogrl": "453 GRS",
             "categoria": "alginato",
             "descripcion": "",
-            "imagen": "/PaginaAdris/img/imgTodo/alginatoSuperado.jpg",
+            "imagen": "img/imgTodo/alginatoSuperado.jpg",
             "color": "",
             "precio": 273.88,
             "size": ""
@@ -242,7 +242,7 @@
             "pesogrl": "453 GRS",
             "categoria": "alginato",
             "descripcion": "",
-            "imagen": "/PaginaAdris/img/imgTodo/alginatoTropical.jpg",
+            "imagen": "img/imgTodo/alginatoTropical.jpg",
             "color": "",
             "precio": 629.01,
             "size": ""
@@ -255,7 +255,7 @@
             "pesogrl": "",
             "categoria": "espatula",
             "descripcion": "",
-            "imagen": "/PaginaAdris/img/imgTodo/espatulaPlasticoVerde.jpg",
+            "imagen": "img/imgTodo/espatulaPlasticoVerde.jpg",
             "color": "bg-green-500",
             "precio": 51.45,
             "size": ""
@@ -268,7 +268,7 @@
             "pesogrl": "",
             "categoria": "espatula",
             "descripcion": "",
-            "imagen": "/PaginaAdris/img/imgTodo/espatulaYeso.jpg",
+            "imagen": "img/imgTodo/espatulaYeso.jpg",
             "color": "",
             "precio": 182.15,
             "size": ""
@@ -281,7 +281,7 @@
             "pesogrl": "",
             "categoria": "taza",
             "descripcion": "",
-            "imagen": "/PaginaAdris/img/imgTodo/tazaHuleChica.jpg",
+            "imagen": "img/imgTodo/tazaHuleChica.jpg",
             "color": "",
             "precio": 90.0,
             "size": "CHICA"
@@ -294,7 +294,7 @@
             "pesogrl": "",
             "categoria": "taza",
             "descripcion": "",
-            "imagen": "/PaginaAdris/img/imgTodo/tazaHuleTransparente.jpg",
+            "imagen": "img/imgTodo/tazaHuleTransparente.jpg",
             "color": "bg-stone-50",
             "precio": 280.8,
             "size": "GRANDE"
@@ -307,7 +307,7 @@
             "pesogrl": "",
             "categoria": "taza",
             "descripcion": "",
-            "imagen": "/PaginaAdris/img/imgTodo/tazaHuleChicaVerde.jpg",
+            "imagen": "img/imgTodo/tazaHuleChicaVerde.jpg",
             "color": "bg-green-500",
             "precio": 145.4,
             "size": "CHICA"
