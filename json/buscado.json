@@ -7,7 +7,7 @@
         "pesogrl": "",
         "categoria": "campos",
         "descripcion": "",
-        "imagen": "/PaginaAdris/img/imgTodo/campoAmrillo.jpg",
+        "imagen": "https://github.com/adr01an/CatalogoFarahDent/blob/main/img/imgTodo/campoAmrillo.jpg",
         "color": "bg-yellow-300",
         "precio": 393.96,
         "size": ""
@@ -20,7 +20,7 @@
         "pesogrl": "",
         "categoria": "guantes",
         "descripcion": "",
-        "imagen": "/PaginaAdris/img/imgTodo/guantesExtrachicos.jpg",
+        "imagen": "https://github.com/adr01an/CatalogoFarahDent/blob/main//img/imgTodo/guantesExtrachicos.jpg",
         "color": "bg-sky-500",
         "precio": 471.25,
         "size": "EXTRACHICO"
@@ -33,7 +33,7 @@
         "pesogrl": "453 GRS",
         "categoria": "alginato",
         "descripcion": "",
-        "imagen": "/PaginaAdris/img/imgTodo/alginatoOriginal.jpg",
+        "imagen": "https://github.com/adr01an/CatalogoFarahDent/blob/main//img/imgTodo/alginatoOriginal.jpg",
         "color": "",
         "precio": 410.82,
         "size": ""
@@ -46,7 +46,7 @@
         "pesogrl": "",
         "categoria": "campos",
         "descripcion": "",
-        "imagen": "/PaginaAdris/img/imgTodo/campoAzulClaro.jpg",
+        "imagen": "https://github.com/adr01an/CatalogoFarahDent/blob/main//img/imgTodo/campoAzulClaro.jpg",
         "color": "bg-sky-500",
         "precio": 393.96,
         "size": ""
