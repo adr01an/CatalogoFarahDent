@@ -119,7 +119,7 @@ document.addEventListener('DOMContentLoaded', function() {
             productoElement.className = 'col-span-1 shadow-xl';
             productoElement.innerHTML = `
                 <div class="h-full md:max-h-[500px] md:max-w-[500px]">
-                    <img class="h-[281px]" src="${producto.imagen}">
+                    <img  src="${producto.imagen}">
                     <div class="ml-2">
                         <h1 class="text-md font-semibold py-1">${producto.nombre}</h1>
                         <p class="text-base text-sm">${producto.descripcion}</p>                      
