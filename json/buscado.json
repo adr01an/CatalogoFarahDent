@@ -7,7 +7,7 @@
         "pesogrl": "",
         "categoria": "campos",
         "descripcion": "",
-        "imagen": "https://github.com/adr01an/CatalogoFarahDent/blob/main/img/imgTodo/campoAmrillo.jpg",
+        "imagen": "/img/imgTodo/campoAmrillo.jpg",
         "color": "bg-yellow-300",
         "precio": 393.96,
         "size": ""
@@ -20,7 +20,7 @@
         "pesogrl": "",
         "categoria": "guantes",
         "descripcion": "",
-        "imagen": "adr01an/CatalogoFarahDent/blob/main/img/imgTodo/guantesExtrachicos.jpg",
+        "imagen": "img/imgTodo/guantesExtrachicos.jpg",
         "color": "bg-sky-500",
         "precio": 471.25,
         "size": "EXTRACHICO"
