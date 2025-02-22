@@ -12,7 +12,7 @@ document.addEventListener('DOMContentLoaded', function () {
     }
 
     // Carga el archivo JSON
-    fetch('/PaginaAdris/json/productos.json')
+    fetch('https://raw.githubusercontent.com/adr01an/CatalogoFarahDent/refs/heads/main/json/buscado.json')
         .then(response => response.json())
         .then(data => {
             // Busca el producto con el id correspondiente
