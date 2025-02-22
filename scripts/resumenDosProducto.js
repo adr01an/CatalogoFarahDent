@@ -16,7 +16,7 @@ document.addEventListener('DOMContentLoaded', function () {
         .then(response => response.json())
         .then(data => {
             // Busca el producto con el id correspondiente
-            // console.log(data,"xd2");
+            console.log(data,"xd2");
             const producto = data.producto.find(item => item.id == productId);
 
             if (producto) {
