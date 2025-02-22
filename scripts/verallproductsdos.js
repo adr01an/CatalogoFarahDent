@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', function() {
     let productsData = null; // Almacenar datos del JSON
 
     // Cargar datos una sola vez
-    fetch('/PaginaAdris/json/productos.json')
+    fetch('https://raw.githubusercontent.com/adr01an/CatalogoFarahDent/refs/heads/main/json/productos.json')
         .then(response => response.json())
         .then(data => {
             productsData = data.producto;
